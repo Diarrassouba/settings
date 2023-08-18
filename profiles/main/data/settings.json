@@ -1,0 +1,123 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"c:\\Users\\DDrissa\\.vscode\\extensions\\gabrielbb.vscode-lombok-1.0.1\\server\\lombok.jar\"",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.openDevTools": "flutter",
+    "files.autoSave": "afterDelay",
+    "sync.autoDownload": true,
+    "sonarlint.rules": {
+        "java:S1068": {
+            "level": "off"
+        },
+        "java:S116": {
+            "level": "off"
+        },
+        "java:S117": {
+            "level": "off"
+        },
+        "java:S125": {
+            "level": "off"
+        },
+        "java:S120": {
+            "level": "off"
+        },
+        "java:S1450": {
+            "level": "off"
+        },
+        "java:S2065": {
+            "level": "off"
+        },
+        "java:S112": {
+            "level": "off"
+        },
+        "java:S1854": {
+            "level": "off"
+        }
+    },
+    "workbench.editorAssociations": {
+        "*.yml": "default"
+    },
+    "redhat.telemetry.enabled": true,
+    "[java]": {
+        "editor.defaultFormatter": "mwpb.java-prettier-formatter"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "tabnine.experimentalAutoImports": true,
+    "sync.autoUpload": true,
+    "sync.gist": "25a739644b26453b048de35cf70a04f4",
+    "editor.formatOnSave": true,
+    "[xml]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "cSpell.userWords": [
+        "commande",
+        "confirmée",
+        "Dtos",
+        "étrangères",
+        "insertable",
+        "l'opération",
+        "libelle",
+        "prenom",
+        "produit",
+        "produits",
+        "quantite",
+        "quartier",
+        "ville"
+    ],
+    "window.zoomLevel": 1,
+    "editor.linkedEditing": true,
+    "editor.suggest.insertMode": "replace",
+    "workbench.tree.indent": 15,
+    "editor.inlineSuggest.enabled": true,
+    "bracket-pair-colorizer-2.excludedLanguages": [],
+    "editor.guides.bracketPairs": true,
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-community-server-connector",
+            "name": "Community Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    "java.configuration.runtimes": [],
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "boot-java.rewrite.reconcile": true,
+    "editor.accessibilitySupport": "on",
+    "git.autofetch": true,
+    "gitlens.views.worktrees.files.layout": "list",
+    "git.requireGitUserConfig": false,
+    "git.repositoryScanMaxDepth": -1,
+    "editor.stickyScroll.enabled": true,
+    "hediet.vscode-drawio.resizeImages": null,
+    "settingsSync.ignoredExtensions": [
+        "sonarsource.sonarlint-vscode"
+    ],
+    "workbench.colorTheme": "Default Dark+"
+}
